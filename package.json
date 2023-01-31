@@ -1,0 +1,13 @@
+{
+    "name": "custom-ssh",
+    "version": "1.0.0",
+    "description": "Node.js on Docker",
+    "author": "Karthik",
+    "main": "index.js",
+    "dependencies": {
+
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}

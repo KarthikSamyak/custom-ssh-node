@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a946fed2-3fea-452e-b222-783faf4eaed9/resourceGroups/Karthik_RG/providers/Microsoft.Web/sites/custom-ssh",
+    "appService.deploySubpath": ""
+}
